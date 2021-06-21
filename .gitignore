@@ -1,0 +1,6 @@
+.coverage
+.idea/
+.scannerwork
+coverage.xml
+__pycache__/
+result.xml
